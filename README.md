@@ -8,7 +8,7 @@ Given a photo of a dish, the model predicts which of 10 allergen/restriction cat
 
 `dairy` · `egg` · `gluten` · `sugar` · `peanut` · `tree nut` · `shellfish` · `finned fish` · `soy` · `meats`
 
-This is the code for my B.Comp. undergraduate dissertation at the National University of Singapore (School of Computing, 2023/24), supervised by Professor Roger Zimmermann.
+This is the code for my B.Comp. undergraduate dissertation at the National University of Singapore (School of Computing, 2023/24).
 
 The cross-modality is in the supervision, not the inference. Recipe text is used to derive the ground-truth allergen labels for each image; the trained model then works from the image alone. That reflects the practical setting: a diner looking at a plate has no recipe, and allergens are frequently mixed into a dish rather than visible on its surface.
 
