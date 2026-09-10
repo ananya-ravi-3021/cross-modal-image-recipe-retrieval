@@ -1,6 +1,6 @@
 # Cross-Modal Image-Recipe Retrieval with a Focus on Allergies and Dietary Restrictions
 
-## Link to Paper: [Ananya_Ravi_Undergraduate_Thesis_Report.pdf](https://github.com/user-attachments/files/32037764/Ananya_Ravi_Undergraduate_Thesis_Report.pdf)
+#### Link to Paper: [Ananya_Ravi_Undergraduate_Thesis_Report.pdf](https://github.com/user-attachments/files/32037764/Ananya_Ravi_Undergraduate_Thesis_Report.pdf)
 
 Multi-label classification of allergens and dietary restrictions directly from a food image, with no recipe text at inference time.
 
